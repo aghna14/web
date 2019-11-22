@@ -1,0 +1,20 @@
+[02-Nov-2019 18:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webokeweb/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-includes/rss-functions.php on line 8
+[17-Nov-2019 10:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webokeweb/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-includes/rss-functions.php on line 9
+[17-Nov-2019 11:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webokeweb/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-includes/rss-functions.php on line 9
+[17-Nov-2019 11:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webokeweb/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-includes/rss-functions.php on line 9
+[17-Nov-2019 11:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webokeweb/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-includes/rss-functions.php on line 9
