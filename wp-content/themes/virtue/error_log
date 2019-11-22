@@ -1,0 +1,8 @@
+[17-Nov-2019 00:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/webokeweb/public_html/wp-content/themes/virtue/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-content/themes/virtue/404.php on line 5
+[18-Nov-2019 21:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/webokeweb/public_html/wp-content/themes/virtue/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/webokeweb/public_html/wp-content/themes/virtue/404.php on line 5
