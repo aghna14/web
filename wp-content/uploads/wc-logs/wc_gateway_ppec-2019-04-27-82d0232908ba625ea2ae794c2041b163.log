@@ -1,0 +1,174 @@
+04-27-2019 @ 16:11:57 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => prologicx10_api1.gmail.com
+    [PWD] => UPD73FABH9EMAYS6
+    [SIGNATURE] => Ac2Pzvj5l6nkcvTKl56MxHpjTr2gAZoYXsSuBaM4Fse1Z39ZRRCf4u-b
+)
+
+04-27-2019 @ 16:11:58 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => B2B3MNHNNUS2Q
+    [LOCALE] => id_ID
+    [TIMESTAMP] => 2019-04-27T09:11:58Z
+    [CORRELATIONID] => 4c0576fb8f068
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 52273553
+)
+
+04-27-2019 @ 16:11:58 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [RETURNURL] => https://ciamiskab.go.id/
+    [CANCELURL] => https://ciamiskab.go.id/
+    [REQBILLINGADDRESS] => 1
+    [AMT] => 1.00
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => prologicx10_api1.gmail.com
+    [PWD] => UPD73FABH9EMAYS6
+    [SIGNATURE] => Ac2Pzvj5l6nkcvTKl56MxHpjTr2gAZoYXsSuBaM4Fse1Z39ZRRCf4u-b
+)
+
+04-27-2019 @ 16:12:00 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TIMESTAMP] => 2019-04-27T09:12:00Z
+    [CORRELATIONID] => 95c20f3429858
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 11601
+    [L_SHORTMESSAGE0] => Request for billing address failed
+    [L_LONGMESSAGE0] => Billing address request is not enabled for merchant
+    [L_SEVERITYCODE0] => Error
+)
+
+04-27-2019 @ 16:12:07 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ciamiskab
+    [RETURNURL] => https://ciamiskab.go.id/checkout/?woo-paypal-return=true
+    [CANCELURL] => https://ciamiskab.go.id/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_ALLOWEDPAYMENTMETHOD] => InstantPaymentOnly
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => IDR
+    [PAYMENTREQUEST_0_AMT] => 15900043
+    [PAYMENTREQUEST_0_ITEMAMT] => 15900033
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 10
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [EMAIL] => aghna.ltd@gmail.com
+    [PAYMENTREQUEST_0_SHIPTONAME] => aghna chibol
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => jl nasol
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => ciamis
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => JB
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 46261
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => ID
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 081298926707
+    [L_PAYMENTREQUEST_0_NAME0] => Album
+    [L_PAYMENTREQUEST_0_DESC0] => Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo.
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 15
+    [L_PAYMENTREQUEST_0_NAME1] => Mobil Tuurungtung
+    [L_PAYMENTREQUEST_0_DESC1] => 
+    [L_PAYMENTREQUEST_0_QTY1] => 1
+    [L_PAYMENTREQUEST_0_AMT1] => 15900000
+    [L_PAYMENTREQUEST_0_NAME2] => Beanie
+    [L_PAYMENTREQUEST_0_DESC2] => Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat v
+    [L_PAYMENTREQUEST_0_QTY2] => 1
+    [L_PAYMENTREQUEST_0_AMT2] => 18
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => prologicx10_api1.gmail.com
+    [PWD] => UPD73FABH9EMAYS6
+    [SIGNATURE] => Ac2Pzvj5l6nkcvTKl56MxHpjTr2gAZoYXsSuBaM4Fse1Z39ZRRCf4u-b
+)
+
+04-27-2019 @ 16:12:09 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TIMESTAMP] => 2019-04-27T09:12:09Z
+    [CORRELATIONID] => 4f66903aeaf78
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10605
+    [L_SHORTMESSAGE0] => Transaction refused because of an invalid argument. See additional error messages for details.
+    [L_LONGMESSAGE0] => Receiving country does not support the transaction currency.
+    [L_SEVERITYCODE0] => Error
+)
+
+04-27-2019 @ 16:12:19 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ciamiskab
+    [RETURNURL] => https://ciamiskab.go.id/checkout/?woo-paypal-return=true
+    [CANCELURL] => https://ciamiskab.go.id/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_ALLOWEDPAYMENTMETHOD] => InstantPaymentOnly
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => IDR
+    [PAYMENTREQUEST_0_AMT] => 15900043
+    [PAYMENTREQUEST_0_ITEMAMT] => 15900033
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 10
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [EMAIL] => aghna.ltd@gmail.com
+    [PAYMENTREQUEST_0_SHIPTONAME] => aghna chibol
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => jl nasol
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => ciamis
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => JB
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 46261
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => ID
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 081298926707
+    [L_PAYMENTREQUEST_0_NAME0] => Album
+    [L_PAYMENTREQUEST_0_DESC0] => Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo.
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 15
+    [L_PAYMENTREQUEST_0_NAME1] => Mobil Tuurungtung
+    [L_PAYMENTREQUEST_0_DESC1] => 
+    [L_PAYMENTREQUEST_0_QTY1] => 1
+    [L_PAYMENTREQUEST_0_AMT1] => 15900000
+    [L_PAYMENTREQUEST_0_NAME2] => Beanie
+    [L_PAYMENTREQUEST_0_DESC2] => Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat v
+    [L_PAYMENTREQUEST_0_QTY2] => 1
+    [L_PAYMENTREQUEST_0_AMT2] => 18
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => prologicx10_api1.gmail.com
+    [PWD] => UPD73FABH9EMAYS6
+    [SIGNATURE] => Ac2Pzvj5l6nkcvTKl56MxHpjTr2gAZoYXsSuBaM4Fse1Z39ZRRCf4u-b
+)
+
+04-27-2019 @ 16:12:20 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TIMESTAMP] => 2019-04-27T09:12:20Z
+    [CORRELATIONID] => 140bef2d982be
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 000000
+    [L_ERRORCODE0] => 10605
+    [L_SHORTMESSAGE0] => Transaction refused because of an invalid argument. See additional error messages for details.
+    [L_LONGMESSAGE0] => Receiving country does not support the transaction currency.
+    [L_SEVERITYCODE0] => Error
+)
+

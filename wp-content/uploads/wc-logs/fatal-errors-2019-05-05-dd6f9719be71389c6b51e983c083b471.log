@@ -1,0 +1,2 @@
+2019-05-05T16:33:19+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 262211 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+

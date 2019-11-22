@@ -1,0 +1,12 @@
+.clear {
+  clear: both;
+}
+.nobr {
+  white-space: nowrap;
+}
+.pvc_clear {
+  clear: both;
+}
+body .pvc-stats-icon {
+  color: #000000 !important;
+}

@@ -1,0 +1,30 @@
+/* ========= INFORMATION ============================
+- document:  Bubble Menu - easily create a flyouts bubble menu.
+- url:       https://wow-estore.com/item/bubble-menu-pro/
+- author:    Wow-Company
+- profile:   https://wow-estore.com/
+- version:   2.0
+- email:     support@wow-company.com
+==================================================== */
+
+
+			.wow-bmp-pos-bl input:checked ~ ul li:nth-child(1) {
+			top: -250%;
+			left: 50%;
+			}
+			.wow-bmp-pos-bl input:checked ~ ul li:nth-child(2) {
+			top: -228.125%;
+			left: 165.625%;
+			}
+			.wow-bmp-pos-bl input:checked ~ ul li:nth-child(3) {
+			top: -162.5%;
+			left: 262.5%;
+			}
+			.wow-bmp-pos-bl input:checked ~ ul li:nth-child(4) {
+			top: -65.625%;
+			left: 328.125%;
+			}
+			.wow-bmp-pos-bl input:checked ~ ul li:nth-child(5) {
+			left: 350%;
+			}
+			

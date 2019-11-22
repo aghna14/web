@@ -1,0 +1,240 @@
+2019-05-02T10:00:59+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in /home/webokeweb/public_html/wp-content/plugins/data-tables-generator-by-supsystic/vendor/Twig/Environment.php(462) : eval()'d code on line 685
+
+2019-05-02T10:05:49+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 64 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:06:50+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8208 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 446
+
+2019-05-02T10:09:44+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:15:12+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 86 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:15:37+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 114564 bytes) in Unknown on line 0
+
+2019-05-02T10:19:48+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 90 bytes) in /home/webokeweb/public_html/wp-includes/capabilities.php on line 948
+
+2019-05-02T10:20:20+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:20:23+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:20:31+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:20:42+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:20:58+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 80 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:21:04+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:21:05+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 84 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:21:15+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:21:27+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 84 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:21:49+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 84 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:35:42+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 92 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:41:04+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 746
+
+2019-05-02T10:41:46+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 92 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:42:00+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:42:15+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:42:18+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:42:33+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:42:44+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:43:14+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:43:21+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:43:38+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:43:46+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 84 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:44:21+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T10:45:31+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:46:31+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:47:46+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 92 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:48:36+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 80 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:49:05+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 64 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-hook.php on line 286
+
+2019-05-02T10:49:47+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2 bytes) in /home/webokeweb/public_html/wp-includes/wp-db.php on line 1550
+
+2019-05-02T10:51:00+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:54:29+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:54:32+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3957
+
+2019-05-02T10:54:57+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 903
+
+2019-05-02T10:55:31+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:55:57+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 64 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:56:16+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T10:57:20+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 285
+
+2019-05-02T10:57:33+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T10:57:33+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 284
+
+2019-05-02T10:57:54+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 284
+
+2019-05-02T10:57:55+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-hook.php on line 271
+
+2019-05-02T10:58:10+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 64 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 284
+
+2019-05-02T10:58:10+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 285
+
+2019-05-02T11:00:26+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T11:00:30+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 80 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T11:00:51+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 746
+
+2019-05-02T11:03:11+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/webokeweb/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 755
+
+2019-05-02T11:03:39+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T11:03:55+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/plugin.php on line 181
+
+2019-05-02T11:04:54+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T11:04:58+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T11:05:58+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-hook.php on line 279
+
+2019-05-02T11:07:57+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3966
+
+2019-05-02T11:26:59+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T13:59:10+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T13:59:21+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T14:00:23+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T14:06:03+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T14:06:47+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T14:15:59+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-content/plugins/data-tables-generator-by-supsystic/vendor/Twig/Lexer.php on line 234
+
+2019-05-02T17:31:40+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:33:42+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108559 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:34:05+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 110226 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:35:11+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 106701 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:35:50+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 109830 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:36:50+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:37:26+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107444 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:37:33+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107311 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:38:02+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 105786 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:38:15+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107722 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:39:12+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 109091 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:40:59+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:41:21+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:41:32+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:41:49+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:42:02+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:42:43+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 106397 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:42:56+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108136 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:43:00+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 109958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:43:18+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:43:35+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:43:52+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:43:56+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107444 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:44:04+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:44:05+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107183 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:44:10+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 106091 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:44:12+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 109091 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:44:39+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:44:41+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 446
+
+2019-05-02T17:44:41+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:44:57+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 106701 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:45:01+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107862 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:45:45+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:45:52+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:46:32+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108688 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:47:01+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:47:18+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:47:21+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:47:53+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 106233 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:48:11+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:48:17+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 105958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:49:04+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 110226 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:49:21+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 109958 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:49:31+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 18321 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:49:42+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16656 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:49:55+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
+2019-05-02T17:50:08+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 106397 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:50:10+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 107862 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:50:39+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 17593 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:50:50+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 18321 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:51:10+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 108136 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:51:52+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 109518 bytes) in /home/webokeweb/public_html/wp-includes/functions.php on line 3450
+
+2019-05-02T17:52:28+07:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1637920 bytes) in /home/webokeweb/public_html/wp-includes/class-wp-theme.php on line 1143
+
